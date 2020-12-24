@@ -8,6 +8,11 @@ docker run --rm -d \
 ``` 
 
 ## setup boundary
+
+```shell script
+boundary dev
+```
+
 ![](img/target.png)
 
 ![](img/users.png)
